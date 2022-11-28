@@ -16,6 +16,9 @@ Each component has a dedicated folder with experiments that train the respective
 
 Project website: https://e-piotis.eu/ 
 
+## Instructions
+Run ``` pip install -r requirements.txt ``` to install the dependencies.
+
 ## License
 Open-source distributed under the license AGPLv3.
 
