@@ -1,0 +1,5 @@
+device_id,device_name,earliest_start,latest_start,duration,max_cons
+1,Air Condition,9,15,5,2
+2,Air Purifier,9,17,5.5,0.003
+3,EV Car Charger,8,17,5,0.07
+4,WiFi Booster,8,24,14,0.002
